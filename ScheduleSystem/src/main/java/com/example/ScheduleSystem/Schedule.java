@@ -9,7 +9,6 @@ public class Schedule {
 
 
 
-
     public void ScheduleTest(){
         System.out.println("Wassup!!");
 
